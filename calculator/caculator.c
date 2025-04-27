@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int a,b;
+    int a,b, sum,diff,mul,div,rem;
     printf("enter the first number\n");
     scanf("%d",&a);
     printf("enter the second number\n");
