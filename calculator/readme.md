@@ -10,7 +10,7 @@ thi is a simple calculator program
           
           calculator.c is a source code file    
                
-               console     
+               ```c  
                #include<stdio.h>
 int main()
 {
@@ -25,7 +25,8 @@ int main()
     printf("%d/%d=%d\n",a,b,div);
     printf("%d%d=%d\n"a,b,rem);
     return 0;
-}      
+}     
+```
 
       #include<stdio.h> is a include the standard input ,output header file    
       int main this is a main function,the program start executing   
