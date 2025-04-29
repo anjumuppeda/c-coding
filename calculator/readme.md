@@ -1,4 +1,4 @@
-#calculator     
+# calculator     
 thi is a simple calculator program     
        
        operators are used     
