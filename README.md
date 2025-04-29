@@ -5,4 +5,4 @@
 2. [Factorial](./factorial)   
 3.   [Helloworld](./helloworld)   
 4. [Fibonacci sequence](./fibonaccisequence)   
-5. [Guess the number](./guess the number)
+5. [Guess the number](./guessthenumber)
