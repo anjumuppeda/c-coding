@@ -1,4 +1,4 @@
-#factorial  
+# factorial  
 the  product of all positive integers   
 its start with 1  
      factorial.c is a source code file  
