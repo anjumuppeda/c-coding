@@ -28,5 +28,5 @@ int main() {
     5=5*4*3*2*1=120  
 
 
-      this is a factorial program in c program    
+     ** this is a factorial program in c program    
            
