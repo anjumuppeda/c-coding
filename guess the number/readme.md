@@ -1,7 +1,7 @@
-#guess the number    
+# guess the number    
  this is guess the number  
  it is noting but guess the number between 0 to n  
-  
+  ```c
   #include <stdio.h>
 
 int main()
@@ -22,6 +22,7 @@ int main()
     }
  return 0;
 }
+```
       
       example:    
       10 attempts are max,i taken  
