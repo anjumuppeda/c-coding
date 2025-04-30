@@ -8,7 +8,7 @@ int main()
     printf("Guess the number (between 1 and 10): ");
     scanf("%d", &guess);
 
-    if (guess = number)
+    if (guess == number)
      {
         printf("You guess is correct\n");
     }
