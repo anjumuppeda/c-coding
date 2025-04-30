@@ -1,7 +1,12 @@
 # guess the number    
  this is guess the number  
  it is noting but guess the number between 0 to n  
+<<<<<<< HEAD
   ```c
+=======
+```c
+  
+>>>>>>> 1bd783c2dbd4ba711fae5c2a0788c6ebe56dca3d
   #include <stdio.h>
 
 int main()

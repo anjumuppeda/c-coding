@@ -1,6 +1,6 @@
-#helloworld  
+# helloworld  
 helloworld.c is a source code file  
-``` console
+```c
 #include <stdio.h>
 int main()
  {
