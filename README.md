@@ -4,6 +4,5 @@
 1. [Calculator](./calculator)  
 2. [Factorial](./factorial)   
 3.   [Helloworld](./helloworld)
-4.   [fibonaccisequence](./fibonaccisequence)
-5.   
-6.   
+4.   [fibonacci sequence](./fibonaccisequence)
+5.    
