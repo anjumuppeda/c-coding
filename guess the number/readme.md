@@ -30,6 +30,6 @@ int main()
       then i won the game    
       when i not guess the number i will fali the game  
       then i loss the game    
-      this a guess the number program    
+     **this a guess the number program**  
         
 
