@@ -4,7 +4,7 @@
 1. [Calculator](./calculator)  
 2. [Factorial](./factorial)   
 3.   [Helloworld](./helloworld)
-4.   [fibonacci sequence](./fibonaccisequence)
-5.    [Guess the number](./guessthenumber)
+4.   [Fibonaccisequence](./fibonaccisequence)
+5.    [Guessthenumber](./guessthenumber)
 6.
 7.
