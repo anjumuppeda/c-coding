@@ -1,17 +1,19 @@
 # calculator     
-thi is a simple calculator program     
+this is a simple calculator program     
        
-       operators are used     
+## operators are used     
+
        addition (+)    
        subtraction(-)
        multiplication(*)
        division(/)
        modulus(%)
           
-          calculator.c is a source code file    
-               
-   ```c  
-   #include<stdio.h>
+[calculator.c](./calculator.c) is a source code file    
+
+
+```c  
+#include<stdio.h>
 int main()
 {
     int a,b;
